@@ -1,0 +1,5 @@
+# Ignore .pth files
+*.pth
+
+# Ignore env folder
+env/
