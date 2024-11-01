@@ -52,8 +52,8 @@ This project uses Convolutional Neural Networks (CNNs) for classifying images of
 #### Test Accuracy Comparison
 ![Test Accuracy Comparison](./resources/TestAccuracyComparison.png)
 
-#### Full Project Report
-<embed src="./resources/shandbenj-report.pdf" width="600" height="400" type="application/pdf">
+### Full Project Report
+[Download the full report](./resources/shandbenj-report.pdf)
 
 <!-- GETTING STARTED -->
 ## Getting Started
