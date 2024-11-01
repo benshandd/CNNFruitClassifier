@@ -21,7 +21,6 @@
   </p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -36,13 +35,24 @@ This project uses Convolutional Neural Networks (CNNs) for classifying images of
 * ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 * ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Images
+### Project Structure
 
-![Alt Text](./resources/samples.png)
-![Alt Text](./resources/TrainingMetrics.png)
-![Alt Text](./resources/ClassificationReports.png)
-![Alt Text](./resources/EnsembleTestResults.png)
-![Alt Text](./resources/TestAccuracyComparison.png)
+#### Sample Dataset Images
+![Sample Dataset Images](./resources/samples.png)
+
+#### Training Metrics
+![Training Metrics](./resources/TrainingMetrics.png)
+
+#### Classification Reports
+![Classification Reports](./resources/ClassificationReports.png)
+
+#### Ensemble Model Test Results
+![Ensemble Model Test Results](./resources/EnsembleTestResults.png)
+
+#### Test Accuracy Comparison
+![Test Accuracy Comparison](./resources/TestAccuracyComparison.png)
+
+#### Full Project Report
 <embed src="./resources/shandbenj-report.pdf" width="600" height="400" type="application/pdf">
 
 <!-- GETTING STARTED -->
