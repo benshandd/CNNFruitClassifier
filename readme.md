@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -137,8 +136,6 @@ Ben Shand- [benjaminshand101@gmail.com](mailto:benjaminshand101@gmail.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Tokeley/Reel-It-In.svg?style=for-the-badge
-[contributors-url]: https://github.com/Tokeley/Reel-It-In/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/Tokeley/Reel-It-In.svg?style=for-the-badge
 [stars-url]: https://github.com/Tokeley/Reel-It-In/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Tokeley/Reel-It-In.svg?style=for-the-badge
